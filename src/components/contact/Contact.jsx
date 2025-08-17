@@ -11,25 +11,25 @@ function Contact(){
     <p className={`${Style.divider} text-dark  px-2`}> </p>
     </div>
 
-<form className="w-100 mt-5 d-flex flex-column  align-items-center ">
-  <div className="mb-3 w-50">
+<form className="w-100 mt-5 d-flex flex-column  align-items-center media ">
+  <div className="mb-3 w-50 w-80-media w-50-media">
 
     <input type="email" className={`${Style.input} form-control p-3`} id="exampleInputEmail1" placeholder='Email address' aria-describedby="emailHelp" />
   </div>
-  <div className="mb-3 w-50  ">
+  <div className="mb-3 w-50 w-80-media w-50-media ">
  
     <input type="password" className={`${Style.input} form-control p-3`} placeholder='Password' id="exampleInputPassword1" />
   </div>
- <div className="mb-3 w-50  ">
+ <div className="mb-3 w-50 w-80-media  w-50-media">
 
     <input type="password" className={`${Style.input} form-control p-3`}  placeholder='Phone Number' id="exampleInputPhone" />
   </div>
 
-  <div className="mb-3 w-50">
+  <div className="mb-3 w-50 w-80-media w-50-media">
 
     <input type="password" className={`${Style.input} form-control p-3`} placeholder='Message' id="exampleInputMessage" />
   </div>
-    <div className=" w-50 ">
+    <div className=" w-50 w-80-media w-50-media">
     
   <button type="submit" className={`${Style.button} btn btn-primary px-4 py-3`}>Send</button>
 </div>

@@ -14,4 +14,24 @@
 }
 input:focus {
     color: black !important;
+
+  }.navbar-toggler{
+    background-color:  #1ABC9C;
+}
+
+@media screen and (max-width:900px) {
+  .w-80-media{
+    width: 80vh !important;
+  }
+  .media{
+    justify-content: left;
+  }
+  
+}
+@media screen and (max-width:500px) {
+  .w-50-media{
+    width: 50vh !important;
+  }
+
+  
 }
