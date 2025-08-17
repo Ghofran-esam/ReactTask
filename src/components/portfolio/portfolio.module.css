@@ -1,0 +1,13 @@
+.portfolioTitle {
+    color: #2b3d4e !important;
+    font-family: Arial, sans-serif ;
+    margin-bottom: 1.45rem;
+    font-weight: 700;
+    font-size: 2.95rem;
+    text-transform: uppercase;
+}
+.divider{
+    width: 300px;
+    background-color: #2b3d4e;
+    height:5px;
+}
