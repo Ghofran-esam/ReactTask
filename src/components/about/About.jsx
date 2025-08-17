@@ -16,7 +16,7 @@ return <>
 </div>
 <div className={` d-flex justify-content-center`}>
 <button className={`${Style.button} mt-3 py-2 px-3`}>
-    <i class="fa-solid fa-download "></i>
+    <i className="fa-solid fa-download "></i>
 Free Downlowad</button>
 </div>
 </div>
