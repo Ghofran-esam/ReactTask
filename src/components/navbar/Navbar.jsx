@@ -1,6 +1,6 @@
 import Style from'./navbar.module.css'
 function Navbar(){
-return <nav className={`${Style.navbackground} navbar py-3 navbar-expand-lg nav-backgound ` }>
+return <nav className={`${Style.navbackground} navbar py-3 navbar-expand-lg nav-backgound fixed-top` }>
   <div className="container  me-4 ">
     <a className={`${Style.start} navbar-brand`} href="#">START BOOTSRTAP</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

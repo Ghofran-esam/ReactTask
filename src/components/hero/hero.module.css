@@ -1,0 +1,18 @@
+.heroSession{
+    background-color:  #1ABC9C;
+    height:570px;
+}
+.divider{
+    width:300px;
+    height:3px;
+    background-color: white;
+}
+.span{
+    font-weight: 500;
+        font-size: 1.3rem;
+        font-family:'Times New Roman', Times, serif;
+}
+.h2{
+    font-size: 3.4rem;
+        font-weight: 700;
+}
